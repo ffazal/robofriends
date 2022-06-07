@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "deb996f54332e525f912",
+    "revision": "5ffb1f6ab03b0ece98d4",
     "url": "/ffazal/robofriends/static/css/main.3eb9ce58.chunk.css"
   },
   {
-    "revision": "deb996f54332e525f912",
-    "url": "/ffazal/robofriends/static/js/main.45bfddca.chunk.js"
+    "revision": "5ffb1f6ab03b0ece98d4",
+    "url": "/ffazal/robofriends/static/js/main.a1b14cda.chunk.js"
   },
   {
     "revision": "f2a10c124870282ae92d",
     "url": "/ffazal/robofriends/static/js/runtime~main.2e6594b2.js"
   },
   {
-    "revision": "77d2bcaa9a72229f1cfe",
+    "revision": "b47fe71883e4a41ec331",
     "url": "/ffazal/robofriends/static/css/2.c3e5aa5d.chunk.css"
   },
   {
-    "revision": "77d2bcaa9a72229f1cfe",
-    "url": "/ffazal/robofriends/static/js/2.738473dc.chunk.js"
+    "revision": "b47fe71883e4a41ec331",
+    "url": "/ffazal/robofriends/static/js/2.e009e008.chunk.js"
   },
   {
     "revision": "440f8641b4ac1935df7a",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/ffazal/robofriends/static/media/SEGA.12a3db8b.woff"
   },
   {
-    "revision": "87c58a197f250db48abc0faf7358663f",
+    "revision": "1e126ff1316e21ce286098ef748d35e7",
     "url": "/ffazal/robofriends/index.html"
   }
 ];
