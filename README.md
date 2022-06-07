@@ -1,10 +1,10 @@
 # robofriends
 
-To run the project:
+### To run the project:
 
-visit: Open [ffazal.github.io/robofriends/](ffazal.github.io/robofriends/) 
+Visit: [ffazal.github.io/robofriends/](ffazal.github.io/robofriends/) 
 
-or 
+### OR
 
 1. Clone this repo
 2. Run `npm install`
