@@ -2,7 +2,7 @@
 
 ### To run the project:
 
-Visit: ([ffazal.github.io/robofriends/](https://ffazal.github.io/robofriends/))  
+Visit: [ffazal.github.io/robofriends/](https://ffazal.github.io/robofriends/) 
 
 ### OR
 
